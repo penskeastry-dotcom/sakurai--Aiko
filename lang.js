@@ -44,7 +44,7 @@ const translations = {
         "contact_address_label": "地址",
         "contact_address_value": "上海市长宁区忠孝東路四段216巷",
         "contact_phone_label": "電話",
-        "contact_phone_value": "+852 5948 6027",
+        "contact_phone_value": "+852 5204 5866",
         "contact_hours_label": "營業時間",
         "contact_hours_value": "週一至週五 10:00 - 20:00",
         "booking_title": "線上預約",
